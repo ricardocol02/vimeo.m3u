@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="canal.caracol.colombia.co" tvg-name="COLOMBIA | Caracol UHD (EXCLUSIVO)" tvg-logo="https://i.imgur.com/B9VM5Ny.png" group-title="COLOMBIA",COLOMBIA | Caracol UHD (EXCLUSIVO)
+http://hispa-tv.com:8080/live/tuoY5X6FQg/8CXhn63i5Q/87062.m3u8
+#EXTINF:-1 tvg-id="canal.caracol.colombia.co" tvg-name="COLOMBIA | Caracol HD " tvg-logo="https://i.imgur.com/D7pv9By.png" group-title="COLOMBIA",COLOMBIA | Caracol HD 
+http://hispa-tv.com:8080/live/tuoY5X6FQg/8CXhn63i5Q/1345.m3u8
+#EXTINF:-1 tvg-id="canal.caracol.colombia.co" tvg-name="COLOMBIA | CARACOL FHD P" tvg-logo="https://i.imgur.com/B9VM5Ny.png" group-title="COLOMBIA",COLOMBIA | CARACOL FHD P
+https://drive.google.com/file/d/1vBB0vr5jfp8e9zfHdzNUt8WgpJuqfxN_/view?usp=sharing
